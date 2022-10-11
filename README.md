@@ -1,6 +1,6 @@
 ![IMG-20220913-WA0002](https://user-images.githubusercontent.com/85620506/192342856-9fa0d541-342e-4005-846e-1c8a88030c13.jpg)
 
-<h1 align="center">Hii 👋, I'm Parth Goswami</h1>
+<h1 align="center">Hii 👋, I'm VIParth Goswami</h1>
 <h3 align="center">Founder of <b>VIP TechnoLabs</b></h3>
 
 <!---
